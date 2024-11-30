@@ -150,4 +150,45 @@ Kesimpulan Program ini adalah aplikasi manajemen data siswa yang sederhana. Peng
 
 # HASIL CODINGAN
 
+![HASIL CODINGAN](https://github.com/user-attachments/assets/a27e56e5-a1cf-44d9-b2be-11c6754b457f)
 
+# Penjelasan Hasil Coding
+
+Dari hasil program yang berjalan, berikut urutan operasi yang dilakukan:
+
+# a. Menambah data mahasiswa:
+
+- Menambah "MAULANA" dengan nilai 90
+- Menambah "SINTIA" dengan nilai 80
+- Menambah "SARAH" dengan nilai 70
+
+# b. Mengubah data:
+
+Mengubah nilai "MAULANA" dari 90 menjadi 80
+
+# c. Menampilkan data:
+
+Menampilkan daftar yang berisi 3 siswa (MAULANA: 80, SINTIA: 80, SARAH: 70)
+
+# d. Menghapus data:
+
+Menghapus data siswa "SARAH"
+
+# e. Menampilkan data akhir:
+
+Menampilkan daftar final yang hanya berisi 2 siswa ( MAULANA : 80, SINTIA : 80 )
+
+# f. Keluaran program:
+
+Memilih opsi 5 untuk mengakhiri program
+
+Program ini menggunakan struktur data list yang berisi kamus untuk setiap siswa, di mana setiap kamus menyimpan nama dan nilai siswa. Antarmuka program menggunakan input/output berbasis teks sederhana dengan menu pilihan 1-5 untuk melakukan berbagai operasi pada data siswa.
+Program ini mendemonstrasikan konsep dasar pemrograman Python seperti:
+- Penggunaan Struktur data (daftar dan kamus)
+- Fungsi dan parameter
+- Perulangan (sementara)
+- Pernyataan kondisional (if-elif-else)
+- Penanganan input/output
+- Pemahaman daftar (pada fungsi hapus)
+
+Program ini menggunakan kamus Python untuk menyimpan data siswa, dengan nama sebagai key dan nilai sebagai value. Implementasi menggunakan kelas untuk manajemen data yang lebih terstruktur dan mudah dipelihara.
